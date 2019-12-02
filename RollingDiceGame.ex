@@ -12,6 +12,6 @@ case a do
   IO.puts("The Total Is: " <> to_string(b + c))
   IO.puts("Thanks For Playing The Game!!!")
   "2\n" -> 
-  IO.puts("Created By Rabia Alhaffar In 2/November/2019")
+  IO.puts("Created By Rabia Alhaffar In 2/December/2019")
   IO.puts("Written In And Powered By Elixir Programming Language!!!")
 end

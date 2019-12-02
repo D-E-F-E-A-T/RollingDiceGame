@@ -12,5 +12,5 @@ if a == "1":
   print("The Total Is: " + str(b + c))
   print("Thanks For Playing The Game!!!")
 if b == "2":
-  print("Created By Rabia Alhaffar In 2/November/2019")
+  print("Created By Rabia Alhaffar In 2/December/2019")
   print("Written In And Powered By Python Programming Langauge!!!")

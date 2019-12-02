@@ -11,6 +11,6 @@ puts "You Rolled The Second Dice,Number: #{c}"
 puts "The Total Is: #{b + c}"
 puts "Thanks For Playing The Game!!!"
 elsif a.to_i == 2 then
-puts "Created By Rabia Alhaffar In 2/November/2019"
+puts "Created By Rabia Alhaffar In 2/December/2019"
 puts "Written In And Powered By Ruby Programming Language!!!"
 end
