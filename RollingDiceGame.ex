@@ -1,6 +1,6 @@
 b = Enum.random(1..6)
 c = Enum.random(1..6)
-IO.puts("Welcome To The Rolling Dice Game")
+IO.puts("Welcome To The Rolling Dice Game!!!")
 IO.puts("Where To Go?")
 IO.puts("1. Start Game")
 IO.puts("2. Credits")
