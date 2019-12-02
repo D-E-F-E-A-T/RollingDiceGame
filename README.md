@@ -15,4 +15,5 @@ No,Each Version Is Standalone,They Are Same Output,But The Code Different
 6. Ink - `RollingDiceGame.ink`
 7. BlitzBasic - `RollingDiceGame.bb`
 8. Lua - `RollingDiceGame.lua`
-9. C++ - `RollingDiceGame.cpp`
+9. Elixir - `RollingDiceGame.ex`
+10. C++ - `RollingDiceGame.cpp`
